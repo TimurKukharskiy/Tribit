@@ -1,0 +1,27 @@
+﻿Построение начато 02.08.2013 10:30:03.
+     1>Проект "C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\tribit_Timur_Kukharskiy.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\anatoly\downloads\tribit_timur_kukharskiy\tribit_timur_kukharskiy\tribit_timur_kukharskiy\main.cpp(52): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\Debug\tribit_Timur_Kukharskiy.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tribit_Timur_Kukharskiy.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\Debug\tribit_Timur_Kukharskiy.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\Debug\tribit_Timur_Kukharskiy.lib" /MACHINE:X86 Debug\tribit_Timur_Kukharskiy.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\tribit_Timur_Kukharskiy.exe.embed.manifest" /manifest Debug\tribit_Timur_Kukharskiy.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         tribit_Timur_Kukharskiy.vcxproj -> C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\Debug\tribit_Timur_Kukharskiy.exe
+       FinalizeBuildStatus:
+         Файл "Debug\tribit_Timur_Kukharskiy.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\tribit_Timur_Kukharskiy.lastbuildstate".
+     1>Построение проекта "C:\Users\Anatoly\Downloads\Tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy\tribit_Timur_Kukharskiy.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.66
